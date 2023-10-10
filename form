@@ -1,0 +1,30 @@
+\documentclass[a4paper]{article}
+\usepackage[a4paper,vmargin={20mm,20mm},hmargin={20mm,10mm}]{geometry}
+%Packages used
+\usepackage{nopageno}
+%Preamble
+\title{20MCA245 MINI PROJECT\\\vspace{0.5em} APPROVAL BY GUIDE \vspace{-3em}}
+\author{}
+\date{}
+%document starts from here
+\begin{document}
+\maketitle
+\Large\section*{}
+Name of Student: REMYA.K.RAJAN\\\\Roll No: CHN22MCA2047\\\\Project title: MEDSHOPPE
+% \\ can be used to create a new line use multiple if you need multiple lines in between
+
+\rmfamily\section*{Abstract} % * is added to make the numbering of the section disappear
+MEDSHOPPE is a pharmacy management system website for pharmacist to manage pharmacy in systematic ways and also the patient can use this site for know
+about medicines and their rate. Pharmacy management system can make the
+work easier by giving the details of medicine when its name is entered. This
+site gives the details of the medicine like rate ,expiry date , company name and
+the stock details also. It becomes very difficult in big pharmacy to handle the
+details of all the medicines manually, so by using this pharmacy management
+system We can maintain the records of all the medicines. Through this site
+we can check the list of doctors on duty and if the patient have any complaint
+about any medicine they can inform their complaint through this site.
+
+\rmfamily\section*{}
+Signature of student:\\\\Any remarks of guide:\\\\
+\section*{}Name and signature of guide with date: 
+\end{document}
