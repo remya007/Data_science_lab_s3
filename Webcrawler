@@ -1,0 +1,23 @@
+import requests
+
+import numpy as np
+
+import pandas as pd
+
+from bs4 import BeautifulSoup
+
+import matplotlib.pyplot as plt
+
+import re
+
+import os
+
+%matplotlib inline
+
+riturl="https://purdue.edu"
+
+webpage = requests.get(riturl)
+
+ritsoup = BeautifulSoup(webpage.content, "html.parser")
+
+print(ritsoup)
